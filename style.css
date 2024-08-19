@@ -196,7 +196,7 @@ h1.text-center {
     margin-bottom: 40px;
     text-align: center; 
 }
-
+/* tab */
 @media (max-width: 768px) {
     .overlay-text {
         /* bottom: 80%; Adjust bottom spacing */
@@ -240,6 +240,7 @@ h1.text-center {
         margin-top: 5px;
     }
 }
+/* mobile */
 
 @media (max-width: 480px) {
     .overlay-text {
